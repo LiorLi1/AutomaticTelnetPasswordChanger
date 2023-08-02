@@ -40,14 +40,14 @@ Open the Command Line as Administrator, and than enter the following commands:
 
 ```bash
 cd SCRIPT_PATH
-python main.py
+python3 -m main.py
 ```
 
 OR
 
 ```bash
 cd SCRIPT_PATH
-python -m main.py
+python3 -m main.py
 ```
 
 **For Linux:**
@@ -56,7 +56,7 @@ Enter the following command:
 
 ```bash
 cd SCRIPT_PATH
-sudo python3 main.py
+sudo python3 -m main.py
 ```
 
 OR
